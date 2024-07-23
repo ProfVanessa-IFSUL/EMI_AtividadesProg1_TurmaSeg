@@ -1,2 +1,5 @@
-# EMI_AtividadesProg1_TurmaSeg
-Atividades de HTML e Javascript do 1o ano do Ensino Médio Integrado do IFSUL, Câmpus Passo Fundo, Disciplina Programação 1, turma de Segunda-feira
+# Repositório das atividades da disciplina de Programação 1
+## Turma de Segunda-feira
+## 1o ano do Ensino Médio Integrado do IFSUL, Câmpus Passo Fundo
+
+Atividades realizadas durante a disciplina, integrando HTML e Javascript
